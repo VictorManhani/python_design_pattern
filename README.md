@@ -1,8 +1,9 @@
 # Design Patterns em Python
 
 ## Código fonte, descrições e inspirações
-https://refactoring.guru/pt-br/design-patterns/python
-https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software
+- https://refactoring.guru/pt-br/design-patterns/python
+- https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software
+
 
 ## Livro
 - Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (The Gang of Four)
