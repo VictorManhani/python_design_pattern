@@ -13,11 +13,9 @@ https://refactoring.guru/pt-br/design-patterns/python
 > podem ser escritos e usados em python.
 
 
-## Creational
+## Criacional
 ### singleton
-> Garantir que uma classe tenha apenas uma instância, e prover um ponto global de acesso
-> a ela. Para determinada situação, é necessário que uma classe tenha apenas uma instância > para o projeto todo, sendo possível utilizá=lo para acesso global. Também é conhecido
-> com um anti-pattern, por ferir um dos príncipios do SOLID.
+> Garantir que uma classe tenha apenas uma instância, e prover um ponto global de acesso a ela. Para determinada situação, é necessário que uma classe tenha apenas uma instância para o projeto todo, sendo possível utilizá-lo para acesso global. Também é conhecido como um anti-pattern, por ferir um dos príncipios do SOLID.
 
 ### factory
 ### prototype
@@ -25,7 +23,7 @@ https://refactoring.guru/pt-br/design-patterns/python
 ### builder
 
 
-## Behavioral
+## Comportamental
 ### chain of responsibility
 ### command
 ### iterator
@@ -36,9 +34,10 @@ https://refactoring.guru/pt-br/design-patterns/python
 ### strategy
 ### template method
 ### visitor
+### Interpreter (Não implementado ainda)
 
 
-## Structural
+## Estrutural
 ### adapter
 ### bridge
 ### composite
@@ -48,5 +47,18 @@ https://refactoring.guru/pt-br/design-patterns/python
 ### proxy
 
 
-## Others patterns still don't described
+## GRASP (Não implementado ainda)
+### Controller
+### Creator
+### Expert (GRASP)
+### High Cohesion
+### Indirection
+### Law of Demeter
+### Low Coupling
+### Polymorphism
+### Protected Variations
+### Pure Fabrication
+
+
+## Outros patterns (Não implementado ainda)
 ### bulk state transition
