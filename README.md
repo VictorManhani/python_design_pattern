@@ -19,6 +19,8 @@
 > Garantir que uma classe tenha apenas uma instância, e prover um ponto global de acesso a ela. Para determinada situação, é necessário que uma classe tenha apenas uma instância para o projeto todo, sendo possível utilizá-lo para acesso global. Também é conhecido como um anti-pattern, por ferir um dos príncipios do SOLID.
 
 ### factory
+> O padrão Factory fornece uma interface para a criação de famílias de objetos relacionados sem a necessidade de especificar a classe concreta destes objetos. Por exemplo, quando estamos trabalhando com uma interface e temos mais de uma implementação para esta interface, podemos utilizar uma fábrica para criar um objeto que implementa a interface e podemos selecionar através da fábrica qual implementação ela irá retornar.
+
 ### prototype
 ### abstract factory
 ### builder
